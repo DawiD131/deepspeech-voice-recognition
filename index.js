@@ -7,7 +7,8 @@ require('dotenv').config();
 const MODEL_PATH = process.env.MODEL_PATH;
 const SCORER_PATH = process.env.SCORER_PATH;
 
-const AUDIO_PATH = './audio.wav';
+
+const AUDIO_PATH = './audio.wa';
 
 const KEYWORD = 'hello';
 
